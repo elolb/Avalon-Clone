@@ -1,0 +1,65 @@
+@font-face {
+  font-family: 'Adobe-Dia';
+  src: local('Adobe-Dia'), url(./fonts/Adobe-Dia.ttf) format('truetype');
+}
+body {
+  font-size: 55px;
+  background-color: #000605;
+  font-family: "Adobe-Dia";
+  text-align: start;
+  max-width: 900px;
+  max-height: 300px;
+}
+.container {
+  width: 100%;
+}
+.password {
+  margin-top:17%;
+  margin-left: 45%;
+  margin-right: 0;
+  margin-bottom: 0;
+  width:90%;
+}
+.password-title {
+  display:inline;
+  margin-top: 0;
+  margin-bottom: 0;
+  max-height: fit-content;
+}
+input{
+  display:inline;
+  background: transparent;
+  border: none;
+  color:#000605;
+  padding: 0;
+}
+input:focus{ 
+  outline: none;
+}
+.password p {
+  color:#aa6d16;
+  overflow-wrap: break-word;
+  line-height: 95%;
+}
+.secret-password p {
+  margin-top: -0.40em;
+  margin-left: 8%;
+  font-size: 0.65em;
+  max-width: 580px;
+}
+.login {
+  margin-left: 35%;
+  margin-top: 15%;
+}
+
+.login p{
+  margin: 0;
+  margin-top: -0.2em;
+  background: radial-gradient(#978a46, #b49033);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-family: 'Playfair Display', serif;
+  font-size: .7em;
+  letter-spacing: -0.02em;
+}
+
