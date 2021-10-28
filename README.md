@@ -8,6 +8,6 @@ https://avalon001.herokuapp.com/
 
 ![React clone](clone.gif)
 
-This was made for fun/practicing CSS. It needs some more effects.
+This was made for fun/practicing CSS. Needs some more effects.
 
 (The password is 1234theninesistersclassreal)
